@@ -1,7 +1,9 @@
 # 💻 Atividade00001
-## Atividade de reforço JavaScript
+## Atividade avaliativa de JavaScript
 
-Funcionamento do código:
+[Clique aqui e veja a atividade na pratica!](https://atividade00001.blogspot.com/)
+
+## Funcionamento do código:
 - O JavaScript pede informações pelo "prompt".
   
   ![Prompt]( https://github.com/HenriqDV/Atividade00001/blob/main/1-ImagensAtividade00001/PromptAtividade00001.png?raw=true )
@@ -14,4 +16,4 @@ Funcionamento do código:
 
   ![ExibindoInfo]( https://github.com/HenriqDV/Atividade00001/blob/main/1-ImagensAtividade00001/ExibindoTextoAtividade00001.png?raw=true )
 
-[clique aqui e veja a atividade na pratica!](https://atividade00001.blogspot.com/)
+
