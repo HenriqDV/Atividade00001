@@ -1,6 +1,6 @@
 # 💻 Atividade00001
 
-[Clique aqui e veja a atividade na pratica!](https://atividade00001.blogspot.com/)
+### [Clique aqui e veja a atividade na pratica!](https://atividade00001.blogspot.com/)
 
 ## Funcionamento do código:
 - O JavaScript pede informações pelo "prompt".
