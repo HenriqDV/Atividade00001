@@ -1,6 +1,6 @@
-# 💻 Atividade00001
+# 💻 Avaliação de JavaScript
 
-### [Clique aqui e veja a atividade na pratica!](https://atividade00001.blogspot.com/)
+### Atividade00001: [Clique aqui e veja o código funcionando na pratica!](https://atividade00001.blogspot.com/)
 
 ## Funcionamento do código:
 - O JavaScript pede informações pelo "prompt".
