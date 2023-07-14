@@ -1,5 +1,4 @@
 # 💻 Atividade00001
-## Atividade avaliativa de JavaScript
 
 [Clique aqui e veja a atividade na pratica!](https://atividade00001.blogspot.com/)
 
